@@ -1,0 +1,1 @@
+A weather api project that use cheerio to scrap weather data.
